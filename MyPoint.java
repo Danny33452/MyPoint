@@ -1,4 +1,4 @@
-public class MyPointMain {
+public class MyPoint {
     /**
      * This class using represents a point in a Cartesian coordinate system.
      *
